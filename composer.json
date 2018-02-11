@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=7",
+        "php": "<=7",
         "nesbot/carbon": "^1.22"
     },
     "autoload": {
